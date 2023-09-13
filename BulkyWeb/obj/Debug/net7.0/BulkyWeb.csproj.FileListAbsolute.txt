@@ -590,3 +590,6 @@ C:\Users\BAPI\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.dll
 C:\Users\BAPI\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.pdb
 C:\Users\BAPI\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Stripe.net.dll
 C:\Users\BAPI\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\BAPI\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\BAPI\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\SendGrid.dll
+C:\Users\BAPI\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\StarkbankEcdsa.dll
